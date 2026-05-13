@@ -1,4 +1,4 @@
-# BEAVER-EDGE: An LLM-Orchestrated Framework for Edge AI Lifecycle Management Automation
+# 🦫 BEAVER-EDGE: An LLM-Orchestrated Framework for Edge AI Lifecycle Management Automation
 
 This repository contains the code of the paper "BEAVER-EDGE: An LLM-Orchestrated Framework for Edge AI Lifecycle Management Automation".
 
