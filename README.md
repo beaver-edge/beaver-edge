@@ -1,6 +1,6 @@
-# Autopilots Need Parachutes: Lessons Learned from LLM-Automated Embedded ML Pipelines
+# BEAVER-EDGE: An LLM-Orchestrated Framework for Edge AI Lifecycle Management Automation
 
-This repository contains code of the paper "Autopilots Need Parachutes: Lessons Learned from LLM-Automated Embedded ML Pipelines" and the original data and test results reported in the paper.
+This repository contains the code of the paper "BEAVER-EDGE: An LLM-Orchestrated Framework for Edge AI Lifecycle Management Automation".
 
 > **NOTE: [experimental_data/](experimental_data/README_exp-data.md) stores the experimental data and results used to generate the report in the paper.**
 
