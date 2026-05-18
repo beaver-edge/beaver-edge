@@ -60,8 +60,7 @@ traffic light
 - Only import libraries that are explicitly required by the application logic (no assumptions like `cv2` unless image/video is involved).  
 - Ensure **no placeholders** remain: all paths and parameters are already defined under ### CONFIGURATION PARAMETERS ###.
 
-### HIGH-LEVEL ABSTRACT REFERENCE LOGIC ###
-Formatted Abstract Reference Logic Reminder:
+### PROGRAMMING GUIDELINE###
 {core_logic_reference_formatted}
 
 """
